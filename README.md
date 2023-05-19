@@ -1,4 +1,4 @@
-# optical_receiver_optimization
+# Optimizing the Photodetector/Analog Front-end Interface in Optical Communication Receivers
 This repo contains the codes that are used to model and optimize an optical receiver.
 
 - For more info on MMSE-DFE: https://github.com/ChrisZonghaoLi/mmse_dfe
