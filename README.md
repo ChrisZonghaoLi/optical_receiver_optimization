@@ -1,6 +1,6 @@
 # Optimizing the Photodetector/Analog Front-end Interface in Optical Communication Receivers
 
-![](pics/optical_receiver_model.jpg)
+![](optical_receiver_model.jpg)
 
 - For more info on MMSE-DFE: https://github.com/ChrisZonghaoLi/mmse_dfe
 - For more info on UpCNN and t-coil modeling: https://github.com/ChrisZonghaoLi/upcnn
